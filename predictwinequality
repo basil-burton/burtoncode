@@ -1,4 +1,4 @@
-#Read in wine quality data for Problem 2
+#Read in wine quality data for Problem
 library(readr)
 Q2_winequality <- read_csv("Desktop/Penn State/Spring 2019/Foundations of Predictive Analytics/Assignments/Final Exam/Q2_winequality.csv")
 
